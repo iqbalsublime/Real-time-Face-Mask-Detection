@@ -17,6 +17,14 @@ Simple overview of use/purpose.
 
 ### Executing program
 
+#### Train 
+
+```
+$python train_my_model.py
+```
+
+#### Run and Detect on local video
+
 ```
 $python my_model_local_video.py
 ```
