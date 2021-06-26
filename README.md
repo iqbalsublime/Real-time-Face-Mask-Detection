@@ -14,6 +14,7 @@
 
 * [requirement.txt](https://github.com/iqbalsublime/Real-time-Face-Mask-Detection/blob/main/requirements.txt)
 * [Dataset](https://github.com/balajisrinivas/Face-Mask-Detection)
+* [Face Detector Model](https://github.com/balajisrinivas/Face-Mask-Detection/tree/master/face_detector)
 
 ### Executing program
 
