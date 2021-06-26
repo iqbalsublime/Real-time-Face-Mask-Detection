@@ -30,8 +30,9 @@ $python my_model_local_video.py
 ```
 
 ## Demo 
+
 **1**
-![alt text](http://url/to/1.png)
+![alt text](1.png)
 **2**
 ![alt text](http://url/to/2.png)
 **3**
