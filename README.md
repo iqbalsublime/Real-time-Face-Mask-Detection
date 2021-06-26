@@ -31,10 +31,15 @@ $python my_model_local_video.py
 
 ## Demo 
 **1**
-<img align="left" width="100" height="100" src="1.png">
+
+<img align="left" width="400" height="400" src="1.png">
 
 **2**
+
+
 ![alt text](2.png)
+
+
 **3**
 ![alt text](http://url/to/3.png)
 **4**
