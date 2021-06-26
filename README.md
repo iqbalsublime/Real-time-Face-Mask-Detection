@@ -1,7 +1,6 @@
 # Real-time-Face-Mask-Detection
 
 
-Simple overview of use/purpose.
 
 ## Used Technology
 * Tensorflow
@@ -13,7 +12,7 @@ Simple overview of use/purpose.
 
 ### Dependencies
 
-* requirement.txt [please check this] 
+* [requirement.txt](https://github.com/iqbalsublime/Real-time-Face-Mask-Detection/blob/main/requirements.txt)
 * [Dataset](https://github.com/balajisrinivas/Face-Mask-Detection)
 
 ### Executing program
@@ -37,11 +36,6 @@ $python my_model_local_video.py
   <img src="3.png" width="400" />
   <img src="4.png" width="400" />
 </p>
-
-
-
-
-
 
 
 
