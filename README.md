@@ -30,6 +30,16 @@ $python my_model_local_video.py
 ```
 
 ## Demo 
+<p float="left">
+  <img src="1.png" width="100" />
+  <img src="2.png" width="100" /> 
+  <img src="3.png" width="100" />
+  <img src="4.png" width="100" />
+</p>
+
+
+
+
 **1**
 
 <img align="left" width="400" height="400" src="1.png">
