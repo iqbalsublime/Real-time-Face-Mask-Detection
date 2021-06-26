@@ -34,16 +34,24 @@ $python my_model_local_video.py
 
 <img align="left" width="400" height="400" src="1.png">
 
+
 **2**
 
+<img align="left" width="400" height="400" src="2.png">
 
-![alt text](2.png)
 
 
 **3**
-![alt text](http://url/to/3.png)
+
+<img align="left" width="400" height="400" src="3.png">
+
+
+
 **4**
-![alt text](http://url/to/4.png)
+
+<img align="left" width="400" height="400" src="4.png">
+
+
 
 
 ## Help
