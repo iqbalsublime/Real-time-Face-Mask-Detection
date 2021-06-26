@@ -18,7 +18,7 @@ Simple overview of use/purpose.
 ### Executing program
 
 ```
-code blocks for commands
+$python my_model_local_video.py
 ```
 
 ## Help
